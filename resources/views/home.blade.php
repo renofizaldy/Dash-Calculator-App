@@ -12,7 +12,7 @@
 			<div class="col-md-10 offset-md-1">
 				<div class="panel panel-default">
 					<div class="panel-heading" style="text-align:center">
-						Waktu yang dihabiskan user hari ini:<br>
+						Waktu yang dihabiskan user:<br>
 						<strong>Total Waktu (Waktu Login - Waktu Logout)</strong>
 					</div>
 					<div class="panel-body">
